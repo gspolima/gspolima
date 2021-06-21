@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔎 I’m interested in .NET and Web technologies.
+- 🌱 I’m currently learning ASP.NET Core API and Entity Framework Core.
+- 📝 Open for hiring.
+- 🤠 Pronouns: He/Him.
