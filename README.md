@@ -17,5 +17,7 @@ Here are some ideas to get you started:
 
 - 🔎 I’m interested in .NET and Web technologies.
 - 🌱 I’m currently learning ASP.NET Core API and Entity Framework Core.
+- 🎯 Next on the spot: JavaScript and Angular.
 - 📝 Open for hiring.
+- 🏫 Undergoing Associate's deegre in Computer Programming at Centro Universitário Estácio do Ceará.
 - 🤠 Pronouns: He/Him.
