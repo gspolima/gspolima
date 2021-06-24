@@ -20,5 +20,5 @@ Here are some ideas to get you started:
 - 🎯 Next on the spot: JavaScript and Angular.
 - 📝 Open for hiring.
 - 🎓 Undergoing Associate's deegre in Computer Programming at Centro Universitário Estácio do Ceará.
-- ⏳ 19 years old.
 - 🤠 Pronouns: He/Him.
+- ⏳ *19* years old.
