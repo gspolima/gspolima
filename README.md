@@ -19,5 +19,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning ASP.NET Core API and Entity Framework Core.
 - 🎯 Next on the spot: JavaScript and Angular.
 - 📝 Open for hiring.
-- 🏫 Undergoing Associate's deegre in Computer Programming at Centro Universitário Estácio do Ceará.
+- 🎓 Undergoing Associate's deegre in Computer Programming at Centro Universitário Estácio do Ceará.
+- ⏳ 19 years old.
 - 🤠 Pronouns: He/Him.
