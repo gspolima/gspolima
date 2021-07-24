@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 
 - 🔎 I’m interested in .NET and Web technologies.
-- 🌱 I’m currently learning ASP.NET Core API and Entity Framework Core.
-- 🎯 Next on the spot: JavaScript and Angular.
+- 🌱 I’m currently learning JavaScript.
+- 🎯 Next on the spot: Angular || React.
 - 🎓 Undergoing Associate's deegre in Computer Programming at Centro Universitário Estácio do Ceará.
 - 🤠 Pronouns: He/Him.
 - ⏳ *19* years old.
