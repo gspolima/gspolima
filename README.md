@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 - 🎯 Next on the spot: Linux || ASP.NET Core Authentication.
 - 🎓 Undergoing Associate's deegre in Computer Programming at Centro Universitário Estácio do Ceará.
 - 🤠 Pronouns: He/Him.
-- ⏳ *19* years old.
+- ⏳  19 years old.
