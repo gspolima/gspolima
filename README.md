@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 
 - 🔎 I’m interested in .NET and Web technologies.
-- 🌱 I’m currently learning Angular.
-- 🎯 Next on the spot: Linux || ASP.NET Core Authentication.
+- 🌱 I’m currently learning jQuery.
+- 🎯 Next on the spot: Linux command line || ASP.NET Core Authentication.
 - 🎓 Undergoing Associate's deegre in Computer Programming at Centro Universitário Estácio do Ceará.
 - 🤠 Pronouns: He/Him.
 - ⏳  19 years old.
