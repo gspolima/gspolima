@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔎 I’m fascinated by .NET and web technologies.
+- 🔎 I’m fascinated by .NET and JavaScript technologies.
 - 🌱 I’m currently learning Angular.
 - 🎯 Next on the spot: the OAuth2 Protocol.
 - 🎓 Undergoing Associate's deegre in Computer Programming at Centro Universitário Estácio do Ceará.
