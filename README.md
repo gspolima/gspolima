@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 
 - 🔎 I’m fascinated by .NET and web technologies.
-- 🌱 I’m currently learning the OAuth2 Protocol.
-- 🎯 Next on the spot: Angular.
+- 🌱 I’m currently learning Angular.
+- 🎯 Next on the spot: the OAuth2 Protocol.
 - 🎓 Undergoing Associate's deegre in Computer Programming at Centro Universitário Estácio do Ceará.
 - 🤠 Pronouns: He/Him.
 - ⏳  19 years old.
