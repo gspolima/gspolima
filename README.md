@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 
 - 🔎 I’m fascinated by .NET and JavaScript technologies.
-- 🌱 I’m currently learning Angular.
-- 🎯 Next on the spot: the OAuth2 Protocol.
+- 🌱 I’m currently learning SQL and MySQL.
+- 🎯 Next on the spot: the Python web ecosystem.
 - 🎓 Undergoing Associate's deegre in Computer Programming at Centro Universitário Estácio do Ceará.
 - 🤠 Pronouns: He/Him.
 - ⏳  19 years old.
