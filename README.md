@@ -16,8 +16,6 @@ Here are some ideas to get you started:
 -->
 
 - 🔎 I’m fascinated by .NET and JavaScript technologies.
--- - 🌱 I’m currently learning Angular 12
--- - 🎯 Next on the spot: ASP.NET Core design for the enterprise
 - 🎓 Associate's deegre holder in Computer Programming at Estácio do Ceará.
 - Soul searching at the moment.
 
